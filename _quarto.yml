@@ -8,7 +8,7 @@ website:
     background: primary
     search: true
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: "Home"
       - research.qmd
       - href: publications.qmd
