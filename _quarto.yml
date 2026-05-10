@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Acosta Lab"
   navbar:
     background: primary
     search: true
@@ -18,6 +17,8 @@ website:
         text: "Software"
       - href: resources.qmd
         text: "Resources"
+      - href: about.qmd
+        text: "About"
     right:
       - icon: github
         href: https://github.com/AcostaLab
@@ -26,3 +27,4 @@ format:
   html:
     theme: sandstone
     css: styles.css
+    smooth-scroll: true

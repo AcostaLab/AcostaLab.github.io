@@ -1,0 +1,10 @@
+---
+title: "Kenneth Acosta, PhD"
+---
+Life Scientist
+
+[{{< fa brands orcid >}}](https://orcid.org/0000-0001-5309-2760)
+[{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=bIc4J-YAAAAJ&hl=en)
+[{{< fa brands github >}}](https://github.com/kenscripts)
+[{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Kenneth-Acosta)
+[{{< fa solid database >}}](https://figshare.com/authors/Kenneth_Acosta/11859935)

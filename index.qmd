@@ -1,10 +1,30 @@
 ---
-title: "Kenneth Acosta, PhD"
+title: ""
 ---
-Life Scientist
 
-[{{< fa brands orcid >}}](https://orcid.org/0000-0001-5309-2760)
-[{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=bIc4J-YAAAAJ&hl=en)
-[{{< fa brands github >}}](https://github.com/kenscripts)
-[{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Kenneth-Acosta)
-[{{< fa solid database >}}](https://figshare.com/authors/Kenneth_Acosta/11859935)
+<div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<img src="images/Spolyrhiza.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
+</div>
+<div class="carousel-item">
+<img src="images/IMG_6755.png" class="d-block w-100" style="height: 400px; object-fit: contain;">
+</div>
+<div class="carousel-item">
+<img src="images/150217_argentina2015_092.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
+</div>
+</div>
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#researchCarousel" data-bs-slide-to="0" class="active"></button>
+<button type="button" data-bs-target="#researchCarousel" data-bs-slide-to="1"></button>
+<button type="button" data-bs-target="#researchCarousel" data-bs-slide-to="2"></button>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#researchCarousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon"></span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#researchCarousel" data-bs-slide="next">
+<span class="carousel-control-next-icon"></span>
+</button>
+</div>
+
+<p style="text-align: center;">Welcome to webpage of Kenneth Acosta, PhD.</p>
