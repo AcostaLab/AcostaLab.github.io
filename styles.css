@@ -1,4 +1,13 @@
 /* css styles */
+
+
+/* _quarto.yml */
+.navbar-nav .nav-link {
+                       font-size: 1.0rem;
+                       }
+
+
+/* index.qmd */
 .carousel-control-prev,
 .carousel-control-next {
                         width: 40px;
@@ -28,6 +37,8 @@
                               background-color: rgba(80, 80, 80, 0.9);
                               }
 
+
+/* software.qmd */
 .tool-entry {
              display: flex;
              align-items: center;
@@ -38,14 +49,27 @@
              }
 
 .tool-entry img {
-                 width: 250px;
+                 width: 200px;
                  flex-shrink: 0;
                  border: 2px solid #cccccc;
                  border-radius: 4px;
                  }
                
 .tool-entry .tool-description p {
-                                 font-size: 1.25rem;
-                                 max-width: 300px;
+                                 font-size: 1.1rem;
+                                 max-width: 250px;
                                  line-height: 1.6;
                                  }
+
+
+/* about.qmd */
+.about-icons a {
+                font-size: 1.8rem;
+                margin: 0 10px;
+                }
+
+.about-links a, .about-links span {
+                                   font-size: 1.4rem;
+                                   text-decoration: none;
+                                   margin: 0 10px;
+                                   }

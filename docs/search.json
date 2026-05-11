@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Kenneth Acosta, PhD",
+    "title": "",
     "section": "",
-    "text": "Life Scientist"
+    "text": "Kenneth Acosta, PhD\nLife Scientist\n\n    \n\n\nEmail | CV"
   },
   {
     "objectID": "index.html",
@@ -93,7 +93,7 @@
   {
     "objectID": "software.html",
     "href": "software.html",
-    "title": "",
+    "title": "Software",
     "section": "",
     "text": "UniAmp (Unique Amplicon) is a computational pipeline to generate PCR primers specific to a target genome."
   }

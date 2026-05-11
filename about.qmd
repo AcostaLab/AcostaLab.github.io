@@ -1,10 +1,24 @@
----
-title: "Kenneth Acosta, PhD"
----
+<div style="text-align: center;">
+
+<img src="images/acs_headshot.Monday0372.png" style="width: 300px; margin-bottom: 16px;">
+
+### Kenneth Acosta, PhD
 Life Scientist
+
+<div class="about-icons">
 
 [{{< fa brands orcid >}}](https://orcid.org/0000-0001-5309-2760)
 [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=bIc4J-YAAAAJ&hl=en)
 [{{< fa brands github >}}](https://github.com/kenscripts)
 [{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Kenneth-Acosta)
 [{{< fa solid database >}}](https://figshare.com/authors/Kenneth_Acosta/11859935)
+
+</div>
+
+<div class="about-links">
+<a href="mailto:ikennethacosta@gmail.com">Email</a>
+<span style="maring: 0 10px;">|</span>
+<a href="pdf/CV-2026.pdf">CV</a>
+</div>
+
+</div>
