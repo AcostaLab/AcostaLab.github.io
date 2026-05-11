@@ -1,3 +1,12 @@
 ---
 title: "Software"
 ---
+
+<div class="tool-entry">
+<a href="https://github.com/AcostaLab/UniAmp">
+<img src="https://github.com/AcostaLab/UniAmp/raw/refs/heads/main/docs/uniamp_logo_v8b.svg" alt="UniAmp logo">
+</a>
+<div class="tool-description">
+<p>UniAmp (Unique Amplicon) is a computational pipeline to generate PCR primers specific to a target genome.</p>
+</div>
+</div>

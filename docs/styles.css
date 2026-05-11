@@ -1,29 +1,51 @@
 /* css styles */
 .carousel-control-prev,
 .carousel-control-next {
-  width: 40px;
-  height: 40px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 50%;
-  top: 50%;
-  transform: translateY(-50%);
-  margin: 0 10px;
-}
+                        width: 40px;
+                        height: 40px;
+                        background-color: rgba(0, 0, 0, 0.5);
+                        border-radius: 50%;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        margin: 0 10px;
+                        }
 
 .carousel-indicators {
-  position: relative;
-  margin-top: 10px;
-  bottom: auto;
-}
-
+                      position: relative;
+                      margin-top: 10px;
+                      bottom: auto;
+                      }
+                    
 .carousel-indicators [data-bs-target] {
-  background-color: rgba(150, 150, 150, 0.7);
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  border: none;
-}
-
+                                       background-color: rgba(150, 150, 150, 0.7);
+                                       width: 10px;
+                                       height: 10px;
+                                       border-radius: 50%;
+                                       border: none;
+                                       }
+                                     
 .carousel-indicators .active {
-  background-color: rgba(80, 80, 80, 0.9);
-}
+                              background-color: rgba(80, 80, 80, 0.9);
+                              }
+
+.tool-entry {
+             display: flex;
+             align-items: center;
+             gap: 24px;
+             margin-bottom: 40px;
+             padding-bottom: 40px;
+             border-bottom: 1px solid #ddd;
+             }
+
+.tool-entry img {
+                 width: 250px;
+                 flex-shrink: 0;
+                 border: 2px solid #cccccc;
+                 border-radius: 4px;
+                 }
+               
+.tool-entry .tool-description p {
+                                 font-size: 1.25rem;
+                                 max-width: 300px;
+                                 line-height: 1.6;
+                                 }
