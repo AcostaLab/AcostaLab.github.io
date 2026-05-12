@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-<img src="images/acs_headshot.Monday0372.png" style="width: 300px; margin-bottom: 16px;">
+<img src="images/img_about/acs_headshot.Monday0372.jpg" style="width: 300px; margin-bottom: 16px;">
 
 ### Kenneth Acosta, PhD
 Life Scientist

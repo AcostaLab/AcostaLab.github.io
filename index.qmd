@@ -5,19 +5,19 @@ title: ""
 <div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
 <div class="carousel-inner">
 <div class="carousel-item active">
-<img src="images/Spolyrhiza.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
+<img src="images/img_index/Spolyrhiza.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
 </div>
 <div class="carousel-item">
-<img src="images/150217_argentina2015_092.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
+<img src="images/img_index/150217_argentina2015_092.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
 </div>
 <div class="carousel-item">
-<img src="images/turions_in_hand.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
+<img src="images/img_index/turions_in_hand.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
 </div>
 <div class="carousel-item">
-<img src="images/dw_AbSp245.tif" class="d-block w-100" style="height: 400px; object-fit: contain;">
+<img src="images/img_index/dw_AbSp245.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
 </div>
 <div class="carousel-item">
-<img src="images/plant_gall.png" class="d-block w-100" style="height: 400px; object-fit: contain;">
+<img src="images/img_index/plant_gall.jpg" class="d-block w-100" style="height: 400px; object-fit: contain;">
 </div>
 </div>
 <div class="carousel-indicators">
