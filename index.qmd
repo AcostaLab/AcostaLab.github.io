@@ -35,4 +35,4 @@ title: ""
 </button>
 </div>
 
-<p style="text-align: center;">Welcome to webpage of Kenneth Acosta, PhD.</p>
+<p style="text-align: center;">Welcome to the webpage of Kenneth Acosta, PhD.</p>
